@@ -42,4 +42,6 @@ The main challenge in this analysis was determining outliers and separating them
 - Furthermore, it shows us that the month of May is when the most successful theater kickstarters launch. 
 - Based on the data on Outcomes based on Goals, we can conclude that a realistic goal of $20,000 or less will yield the highest chance of success for Theater kickstarters.
 
-NOTE: The focus of the analysis stayed primarily on theater and play kickstarters and does not include in-depth views of other Categories or Subcategories. Additional category analyses may be added upon request.
+NOTE: The focus of the analysis stayed primarily on theater and play kickstarters and does not include in-depth views of other Categories or Subcategories. Additional category analyses such as descriptive statistics and outcome trend lines may be added for a more robust comparison. 
+
+The dataset also originates from a single database of kickstarters and isn't an all-inclusive global table. The database appears to not have been updated in a number of years and an updated analysis may be needed for futher decision making.
